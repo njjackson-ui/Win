@@ -1,0 +1,2 @@
+# here.now skill local state (internal cache; may contain claim tokens) — never commit
+.herenow/
